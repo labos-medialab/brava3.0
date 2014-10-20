@@ -1,0 +1,43 @@
+{
+  "Brna": {
+    "keys": {
+      "pin": {
+        "pin": "541835"
+      }, 
+      "rfid": {
+        "vozacka": "432554637"
+      }, 
+      "wifi": {
+        "mac": "ccccscdf"
+      }
+    }
+  }, 
+  "Mario": {
+    "keys": {
+      "pin": {
+        "pin": "234573"
+      }, 
+      "rfid": {
+        "vozacka": "ccc"
+      }, 
+      "wifi": {
+        "mac": "kkk"
+      }
+    }
+  }, 
+  "Petar": {
+    "keys": {
+      "pin": {
+        "static": "351837",
+        "temp": ["9886594",""],
+      }, 
+      "rfid": {
+        "butra": "ihgsfewyoihawreihogsroh", 
+        "vozacka": "43362424157128"
+      }, 
+      "wifi": {
+        "mac": "bo:ja:ti:on"
+      }
+    }
+  }
+}
